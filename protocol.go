@@ -1,4 +1,4 @@
-package protocol
+package kademlia
 
 type Protocol interface {
 	Ping(p *KProtocol)

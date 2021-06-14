@@ -1,5 +1,5 @@
-package main
+package kademlia
 
-func main() {
+func SMain() {
 	println("Hello")
 }
